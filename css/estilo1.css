@@ -1,0 +1,24 @@
+
+*
+{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 25px;
+
+}
+body
+{background-color: brown;
+}
+
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    border-color: azure;
+    color:crimson;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p {color:indianred; text-align: justify; border-style: solid; padding: 15px;}
+
+img{width: 35%; }
